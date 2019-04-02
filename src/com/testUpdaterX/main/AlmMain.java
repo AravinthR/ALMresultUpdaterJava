@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
 
 import org.apache.log4j.Category;
 
-import com.cts.alm.testupdater.commons.Base64Encoder;
+import com.testUpdaterX.commons.Base64Encoder;
 
 public class AlmMain {
 	
